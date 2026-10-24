@@ -10,7 +10,7 @@ Quiz interativo desenvolvido com Flutter e Dart, com perguntas de múltipla esco
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/EnzoToniato567/Quiz-Flutter-2026.git
+git clone https://github.com/zenvexy/Quiz-Flutter-2026.git
 
 # 2. Entre na pasta do projeto
 cd flutter_quiz_2026
